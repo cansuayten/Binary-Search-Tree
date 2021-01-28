@@ -1,0 +1,9 @@
+C:\Users\Cansu\source\repos\VeriYapilari_Odev7\VeriYapilari_Odev7\bin\Debug\VeriYapilari_Odev7.exe.config
+C:\Users\Cansu\source\repos\VeriYapilari_Odev7\VeriYapilari_Odev7\bin\Debug\VeriYapilari_Odev7.exe
+C:\Users\Cansu\source\repos\VeriYapilari_Odev7\VeriYapilari_Odev7\bin\Debug\VeriYapilari_Odev7.pdb
+C:\Users\Cansu\source\repos\VeriYapilari_Odev7\VeriYapilari_Odev7\obj\Debug\VeriYapilari_Odev7.csprojAssemblyReference.cache
+C:\Users\Cansu\source\repos\VeriYapilari_Odev7\VeriYapilari_Odev7\obj\Debug\VeriYapilari_Odev7.Form1.resources
+C:\Users\Cansu\source\repos\VeriYapilari_Odev7\VeriYapilari_Odev7\obj\Debug\VeriYapilari_Odev7.Properties.Resources.resources
+C:\Users\Cansu\source\repos\VeriYapilari_Odev7\VeriYapilari_Odev7\obj\Debug\VeriYapilari_Odev7.csproj.GenerateResource.cache
+C:\Users\Cansu\source\repos\VeriYapilari_Odev7\VeriYapilari_Odev7\obj\Debug\VeriYapilari_Odev7.exe
+C:\Users\Cansu\source\repos\VeriYapilari_Odev7\VeriYapilari_Odev7\obj\Debug\VeriYapilari_Odev7.pdb
